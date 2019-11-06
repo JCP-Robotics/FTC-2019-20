@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\banner_parent.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\banner_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_configure_from_template.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_configure_from_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_view_logs.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_view_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\analog_outputs.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\analog_outputs.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\pwm_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\pwm_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_config_wifi_direct.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\port_attached_row.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\port_attached_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\motor.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\motor.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\pwms.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\pwms.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\digital_device_lynx.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\digital_device_lynx.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_blocks.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Blocks-release.aar\\ceb7f15ebcacc6a85de9cd308467255c\\res\\layout\\activity_blocks.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\file_info.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\file_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\matrices.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\matrices.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\button_list.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\button_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_ftc_wifi_remembered_groups.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\feedback.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\device_interface_module.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\device_interface_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\lynx_usb_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\lynx_usb_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_ftc_lynx_fw_update.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\motor_controller_banner.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\motor_controller_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\servo.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\servo.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_program_and_manage.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_program_and_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\loading_indicator_overlay.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\layout\\loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\motor_list.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\motor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\item_list_parent.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\item_list_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_swap_usb_devices.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\info_button.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\info_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_inspection.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Inspection-release.aar\\33cac96acb65bee64d34700442b3110d\\res\\layout\\activity_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\header.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\lynx_module_configure_address.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\digital_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\digital_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_generic_settings.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_generic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\analog_output_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\analog_output_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\gray_line.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\gray_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\analog_inputs.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\analog_inputs.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\simple_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\simple_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\i2cs.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\i2cs.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\analog_input_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\analog_input_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_ftc_controller.xml",
+        "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\layout\\activity_ftc_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\matrix_devices.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\matrix_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_ftc_lynx_address_update.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\lynx_module_configure_address_spin_item.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\red_line.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\red_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\lynx_module.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\lynx_module.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_ftc_wifi_channel_selector.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_programming_mode.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Blocks-release.aar\\ceb7f15ebcacc6a85de9cd308467255c\\res\\layout\\activity_programming_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\digital_devices.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\digital_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_load.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\activity_ftc_configuration.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\template_info.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\template_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\servo_controller_banner.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\servo_controller_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\fragment_wifi_mute.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\layout\\fragment_wifi_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\servo_list.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\servo_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\color_list_preference_line_item.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\layout\\color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\legacy.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\legacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\webcam_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\webcam_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\layout\\i2c_device.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\layout\\i2c_device.xml"
+    }
+]

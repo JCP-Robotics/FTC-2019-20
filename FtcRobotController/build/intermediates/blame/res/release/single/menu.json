@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Inspection-release.aar\\33cac96acb65bee64d34700442b3110d\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\menu_server.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Blocks-release.aar\\ceb7f15ebcacc6a85de9cd308467255c\\res\\menu\\menu_server.xml"
+    }
+]

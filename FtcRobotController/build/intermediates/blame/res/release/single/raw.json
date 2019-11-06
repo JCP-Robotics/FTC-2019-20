@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\chimeconnect.wav",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\color_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\chimedisconnect.wav",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\texture_fragment_shader.glsl",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\nxtstartupsound.wav",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\silver.wav",
+        "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\raw\\silver.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\warningmessage.wav",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\gold.wav",
+        "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\raw\\gold.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\format_convert.bc",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\format_convert.bc"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\errormessage.wav",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    }
+]

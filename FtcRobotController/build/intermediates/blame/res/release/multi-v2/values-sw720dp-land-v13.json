@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "1849",
+                        "endColumns": "58",
+                        "endOffsets": "1903"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "1849",
+                        "endColumns": "58",
+                        "endOffsets": "1903"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

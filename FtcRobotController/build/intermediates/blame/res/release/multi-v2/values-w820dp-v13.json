@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "1940",
+                        "endColumns": "57",
+                        "endOffsets": "1993"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "1940",
+                        "endColumns": "57",
+                        "endOffsets": "1993"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

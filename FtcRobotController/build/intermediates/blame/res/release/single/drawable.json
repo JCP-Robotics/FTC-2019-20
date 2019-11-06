@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable\\button_shape.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable\\black_border.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Blocks-release.aar\\ceb7f15ebcacc6a85de9cd308467255c\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable\\feedback_shape_orange.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\drawable\\feedback_shape_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Inspection-release.aar\\33cac96acb65bee64d34700442b3110d\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\Inspection-release.aar\\33cac96acb65bee64d34700442b3110d\\res\\drawable\\icon_menu.png"
+    }
+]

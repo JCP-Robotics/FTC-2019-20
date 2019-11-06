@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\app_settings.xml",
+        "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\app_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\ftc_about_activity.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\ftc_about_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\pushbot.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\device_filter.xml",
+        "source": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\teamwebcamcalibrations.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\xml\\teamwebcamcalibrations.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\ftc_about_activity_rc.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\ftc_about_activity_rc.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\advanced_rc_settings.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\advanced_rc_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\builtinwebcamcalibrations.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\f3484c4d88ae2afa221b3fe8d808f9ef\\res\\xml\\builtinwebcamcalibrations.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\rev_scoot.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\rev_scoot.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\squarebot.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "C:\\Users\\egfra\\Documents\\Robotics\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\xml\\maxmodules.xml",
+        "source": "C:\\Users\\egfra\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\d6ea49981925cf661ab09d1a0f7247ea\\res\\xml\\maxmodules.xml"
+    }
+]
