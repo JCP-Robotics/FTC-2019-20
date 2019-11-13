@@ -58,6 +58,8 @@ public class FTC_Driver_Controls_2019_2020 extends LinearOpMode {
     private DcMotor motor2 = null;
     private DcMotor motor3 = null;
     private DcMotor motor4 = null;
+    private DcMotor motor5 = null;
+    private Servo servo0 = null;
 
 
     private static void verticalMotion(DcMotor motor_1,DcMotor motor_2,DcMotor motor_3,DcMotor motor_4,double power){
@@ -100,9 +102,11 @@ public class FTC_Driver_Controls_2019_2020 extends LinearOpMode {
         motor2 = hardwareMap.get(DcMotor.class, "motor2");
         motor3 = hardwareMap.get(DcMotor.class, "motor3");
         motor4 = hardwareMap.get(DcMotor.class, "motor4");
+        motor5 = hardwareMap.get(DcMotor.class, "motor5");
+        servo0 = hardwareMap.get(Servo.class, "servo0");
 
-
-
+        float servoMode = 1;
+        servo0.setPosition(1);
 
         // Wait for the game to start (driver presses PLAY)
         waitForStart();
@@ -110,6 +114,34 @@ public class FTC_Driver_Controls_2019_2020 extends LinearOpMode {
 
         // run until the end of the match (driver presses STOP)
         while (opModeIsActive()) {
+
+
+            if (gamepad1.a){
+                servoMode -= 0.01;
+                if(servoMode< 0){
+                    servoMode = 0;
+                }
+            }else if (gamepad1.b){
+                servoMode += 0.01;
+                if(servoMode> 1){
+                    servoMode = 1;
+                }
+            }
+
+            double servoMode1 = servoMode;
+
+            servo0.setPosition(servoMode1);
+
+            telemetry.addData("servoPos", servoMode1);
+
+            if (gamepad1.right_bumper){
+                motor5.setPower(0.325);
+            }else if (gamepad1.left_bumper){
+                motor5.setPower(-0.325);
+            }else{
+                motor5.setPower(0);
+            }
+
 
             boolean check1 = true;
             boolean check2 = true;

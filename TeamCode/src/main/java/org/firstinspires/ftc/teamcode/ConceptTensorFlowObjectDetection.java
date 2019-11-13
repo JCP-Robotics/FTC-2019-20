@@ -130,7 +130,7 @@ public class ConceptTensorFlowObjectDetection extends LinearOpMode {
                          // int silverMineral2X2 = -1;
                         for (Recognition recognition : updatedRecognitions) {
                           if (recognition.getLabel().equals(LABEL_GOLD_MINERAL)) {
-                              if( (int) recognition.getRight() > 250) {
+                              if( Math.abs((int) recognition.getTop() - (int) recognition.getBottom()) > 200) {
                                   goldMineralX = (int) recognition.getTop();
                                 goldMineralX2 = (int) recognition.getBottom();
                                   goldMineralBot = (int) recognition.getRight();

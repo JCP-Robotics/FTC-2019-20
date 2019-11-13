@@ -52,7 +52,7 @@ import com.qualcomm.robotcore.util.Range;
  */
 
 @TeleOp(name="FTC_First_Competition", group="Linear Opmode")
-//@Disabled
+@Disabled
 public class FTC_Driver_Controls extends LinearOpMode {
 
     private DcMotor leftMotor = null;

@@ -30,6 +30,7 @@
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
@@ -65,7 +66,7 @@ import java.util.List;
  */
 
 @Autonomous
-//@Disabled
+@Disabled
 public class FTC_First_Competition_Autonomous extends LinearOpMode {
 
     //TensorFlow copyPaste
